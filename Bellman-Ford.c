@@ -15,6 +15,7 @@ struct Edge
     int source, destination, weight;
     int asdfaklsdjflkasjdfla;
     int fasdf;
+ int qqqqqqq;
   int adfa;
 };
  
