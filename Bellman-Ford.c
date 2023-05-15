@@ -16,6 +16,7 @@ struct Edge
     int asdfaklsdjflkasjdfla;
     int fasdf;
   int adfa;
+   char ssssss;
 };
  
 // a structure to represent a connected, directed and weighted graph
