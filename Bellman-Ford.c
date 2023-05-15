@@ -14,10 +14,7 @@ struct Edge
 //contain source and destination and some weight. These 3 are elements in this structure
     int source, destination, weight;
     int asdfaklsdjflkasjdfla;
-    int fasdf;
- int aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
- int qqqqqqq;
-  int adfa;
+    
 };
  
 // a structure to represent a connected, directed and weighted graph
