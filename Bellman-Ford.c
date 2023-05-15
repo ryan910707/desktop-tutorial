@@ -13,6 +13,9 @@ struct Edge
     // This structure is equal to an edge. Edge contains two end points. These edges are directed edges so they
 //contain source and destination and some weight. These 3 are elements in this structure
     int source, destination, weight;
+    char a, b, c;
+    int ssss;
+    int sffff;
 };
  
 // a structure to represent a connected, directed and weighted graph
