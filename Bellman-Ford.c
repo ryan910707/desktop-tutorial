@@ -21,7 +21,8 @@ struct Edge
    char ssssss;
  
  int qqqqqqqqqqq;
-
+int qa;
+ int qqqqqqqqqaaaaaaaaaaaaaaaaaa;
 };
  
 // a structure to represent a connected, directed and weighted graph
