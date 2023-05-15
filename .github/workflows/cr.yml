@@ -15,4 +15,4 @@ jobs:
       - uses: anc95/ChatGPT-CodeReview@v1.0.6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OPENAI_API_KEY: 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
+          OPENAI_API_KEY: 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
