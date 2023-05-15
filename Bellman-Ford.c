@@ -23,6 +23,7 @@ struct Edge
  int qqqqqqqqqqq;
 int qa;
  int qqqqqqqqqaaaaaaaaaaaaaaaaaa;
+ int qasdfasdf;
 };
  
 // a structure to represent a connected, directed and weighted graph
