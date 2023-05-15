@@ -17,6 +17,7 @@ struct Edge
     char fa;
     char a, b, c;
     int ssss;
+    int qqqq;
     int sffff;
     int fda;
     int asdfaklsdjflkasjdfla;
