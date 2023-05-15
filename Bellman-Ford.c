@@ -19,6 +19,8 @@ struct Edge
  int qqqqqqq;
   int adfa;
    char ssssss;
+ 
+ int qqqqqqqqqqq;
 
 };
  
