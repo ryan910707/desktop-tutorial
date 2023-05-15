@@ -123,6 +123,9 @@ scanf("%d",&S);
     struct Graph* graph = createGraph(V,E);    //calling the function to allocate space to these many vertices and edges
  
     int i;
+    for (int j=0;j<E;j++){
+        printf("FUCK");
+    }
     for(i=0;i<E;i++){
         printf("\nEnter edge %d properties Source, destination, weight respectively\n",i+1);
         scanf("%d",&graph->edge[i].source);
